@@ -1,0 +1,16 @@
+{
+  "name": "Dindin — orçamento do mês",
+  "short_name": "Dindin",
+  "description": "Orçamento e gastos do mês, com importação de extrato e fatura do Nubank e do Safra.",
+  "lang": "pt-BR",
+  "start_url": "./#inicio",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff3f7",
+  "theme_color": "#d63f7a",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
